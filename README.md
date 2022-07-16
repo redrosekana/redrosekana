@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **kasetsart university**
 - 🌱 I’m currently learning **html css javascript react vue bootstrap python git**
-- 💬 Ask me about everything
-- 📫 How to reach me:  [Kanadss](https://www.instagram.com/kanadss/) on Instagram
+- 💬 Ask me about **everything**
+- 📫 How to reach me:  [Kanadss](https://www.instagram.com/kanadss/) **on Instagram**
 - 😄 Pronouns: **kanadss**:sunglasses:
 
 
