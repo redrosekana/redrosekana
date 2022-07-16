@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 ## My language that I write
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblekana)](https://github.com/anuraghazra/github-readme-stats)
 
-###currently
+### currently
 
 ![Image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
