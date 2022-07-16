@@ -13,10 +13,10 @@
 
 
 # Stat Me :weary:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humblekana&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humblekana&show_icons=true&theme=jolly)
 
 # My language that I write
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblekana)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblekana)
 
 ## currently
 
@@ -81,7 +81,7 @@
 ![Image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Image](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-Web Browsers 
+
 
 * :nine: **Web Browsers & Workspace Spec**
 
