@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 ## My language that I write
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblekana)](https://github.com/anuraghazra/github-readme-stats)
+
+###currently
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
