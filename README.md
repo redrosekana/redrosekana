@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 ## Stat Me :weary:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humblekana&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+## My language that I write
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblekana)](https://github.com/anuraghazra/github-readme-stats)
