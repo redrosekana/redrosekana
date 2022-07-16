@@ -15,16 +15,16 @@
 # Stat Me :weary:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humblekana&show_icons=true&theme=jolly)
 
-# My language that I write
+# My language that I write :joy:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblekana)
 
-# คติประจำ 3 ใจ
+# คติประจำ 3 ใจ :grin:
 > - ถ้าหากว่าเราตั้งใจและทุ่มเทในสิ่งที่เราทำแล้ว ไม่ว่ามันจะสำเร็จหรือล้มเหลว เราไม่จำเป็นต้องเสียใจ
 > - ผู้ที่ได้ประสบทั้งความสำเร็จและความล้มเหลวเท่านั้น จึงจะเรียกได้ว่าเป็นลูกผู้ชายที่เติบโตขึ้นอย่างสมบูรณ์ แม้ว่าจะต้องเสียใจและร้องไห้ก็ตาม
 > - เส้นทางการเติบโตนั้นมันไม่ได้ง่าย และมันก็ไม่ได้ยาก เราเท่านั้นที่จะกำหนดเส้นทางเดินของเราได้ว่ามันจะง่ายหรือจะยากด้วยคำว่า ความขยัน
 
 
-## Currently Learn
+## Currently Learn :kissing_closed_eyes:
 
 * :one: **Languages**
 
