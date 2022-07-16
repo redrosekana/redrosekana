@@ -18,7 +18,7 @@
 # My language that I write
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblekana)
 
-## currently
+## Currently
 
 * :one: **Languages**
 
