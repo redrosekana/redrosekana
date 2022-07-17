@@ -24,7 +24,7 @@
 > - เส้นทางการเติบโตนั้นมันไม่ได้ง่าย และมันก็ไม่ได้ยาก เราเท่านั้นที่จะกำหนดเส้นทางเดินของเราได้ว่ามันจะง่ายหรือจะยากด้วยคำว่า ความขยัน
 
 
-## Currently Learn :kissing_closed_eyes:
+## Skill Currently Learn :kissing_closed_eyes:
 
 * :one: **Languages**
 
