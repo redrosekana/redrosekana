@@ -18,10 +18,10 @@
 [![Image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kanadss/)
 
 # Stat Me :weary:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=humblekana&show_icons=true&theme=jolly)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redrosekana&show_icons=true&theme=jolly)
 
 # My language that I write :joy:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humblekana)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redrosekana)
 
 # คติประจำ 3 ใจ :grin:
 > - ถ้าหากว่าเราตั้งใจและทุ่มเทในสิ่งที่เราทำแล้ว ไม่ว่ามันจะสำเร็จหรือล้มเหลว เราไม่จำเป็นต้องเสียใจ
