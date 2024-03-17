@@ -46,10 +46,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redrosekana" alt="redrosekana" /></p>
 
 <br />
-<img src='https://visitor-badge.glitch.me/badge?page_id=page.id' alt='visitor-badge' />
 
 <br />
 
-# Tech Stack
+# Tech Stack 💯
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,nextjs,nuxtjs,nestjs,bootstrap,tailwind,styledcomponents,materialui,postgres,mysql,mongo,redis,firebase,flask,jest,vite,jenkins,docker,kubernetes,postman,elasticsearch,gcp,github,gitlab,linux)
